@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name STREAMCAM_H3_LTE_LIBS)(type Legacy)(uri ${KIPRJMOD}/STREAMCAM_H3_LTE_LIBS.lib)(options "")(descr ""))
+  (lib (name StreamCam_H3_LTE-rescue)(type Legacy)(uri ${KIPRJMOD}/StreamCam_H3_LTE-rescue.lib)(options "")(descr ""))
+  (lib (name Allwinner_H3)(type Legacy)(uri ${KIPRJMOD}/libs/H3/Allwinner_H3.lib)(options "")(descr ""))
+  (lib (name k4b4g16)(type Legacy)(uri ${KIPRJMOD}/libs/k4b4g16/k4b4g16.lib)(options "")(descr ""))
+  (lib (name Samsung_K4B4G1646B-HCK0)(type Legacy)(uri ${KIPRJMOD}/libs/Samsung_K4B4G1646B-HCK0/Samsung_K4B4G1646B-HCK0.lib)(options "")(descr ""))
+  (lib (name Samsung_K4B4G1646B-BCK0)(type Legacy)(uri ${KIPRJMOD}/libs/Samsung_K4B4G1646B-HCK0/Samsung_K4B4G1646B-BCK0.lib)(options "")(descr ""))
+  (lib (name LTE_Libs)(type Legacy)(uri ${KIPRJMOD}/LTE_Libs.lib)(options "")(descr ""))
+)
